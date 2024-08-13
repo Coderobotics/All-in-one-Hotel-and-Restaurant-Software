@@ -36,5 +36,5 @@ HotRes is advanced Hotel And Restaurant Management Software With POS Functions o
 <li>Feedback</li>
 <li>Operator Master</li>
 </ul>
-<b>More details and download link:</b>
+<b>More details and download link:</b><br>
 <b>https://www.aspscriptsonline.com/product/hotel-and-restaurant-software-source-code/</b>
